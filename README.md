@@ -1,0 +1,3 @@
+# HeadFirstPython_learning_code
+包含了学习HeadFirstPython的代码，这些代码经过调试可以在pycharm上运行，其他一些文件是一些测试文件
+测试文件包括递归调用，使用程序控制Android手机的一些代码
